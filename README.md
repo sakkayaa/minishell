@@ -85,3 +85,11 @@ Minishell is a **42 School project (Rank 03)** from the Unix branch. The goal is
 ---
 
 ✨ *A command line of our own, built one process at a time.*
+
+
+## 👩‍💻 About
+
+Created by **Sedef Akkaya** as a 42 School graphics project.
+
+- GitHub: [@sakkayaa](https://github.com/sakkayaa)
+- LinkedIn: [Sedef Akkaya](https://www.linkedin.com/in/sedef-akkaya-0a5580228/)
